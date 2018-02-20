@@ -1,0 +1,2 @@
+mqtt_statestream:
+  base_topic: homeassistant
